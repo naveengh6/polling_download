@@ -16,3 +16,14 @@ bucket = '<REPLACE ME>' # replace the bucket name
 # paths
 local_path = 'F:\\Development\\Github\\polling_download\\all' # replace this path from your local folder location
 ```
+
+**Running the program**
+```shell
+python main.py
+```
+
+or
+
+```shell
+python3 main.py
+```
